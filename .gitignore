@@ -1,0 +1,15 @@
+# Local Python runtime and virtual environments
+.python312/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local database and raw TWSE payload archive
+data/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
